@@ -1,7 +1,16 @@
-<h1 align="center">Hey Ahmad Aizaz</h1>
+<h1 align="center">Ahmad Aizaz</h1>
 <h3 align="center">CS Undergraduate | AI, Education & Social Impact | Digital Builder & Designer</h3>
 
+**`I’m a CS Undergraduate & Digital Builder who lives at the intersection of Vibe Coding, AI & ML, Cybersecurity, Web Creation, UI/UX, and full-stack development. I’m passionate about turning ideas into clean, intelligent, and impactful digital products. Focused on AI, education, and social impact, I blend creativity with engineering to design modern, meaningful tech experiences as a digital content architect and problem solver.`**
+
 ## 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ahmadaizaz)
+[![My Skills](https://skillicons.dev/icons?i=medium&theme=light)](https://ahmadaizaz.medium.com/)
+[![My Skills](https://skillicons.dev/icons?i=substack&theme=light)](https://substack.com/@ahmadaizaz)
+[![My Skills](https://skillicons.dev/icons?i=substack&email=light)](mailto:itsmeahmadaizaz@gmail.com)
+
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_ahmadaizaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadaizaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmeahmadaizaz@gmail.com) 
 
 # 💻 Tech Stack:
